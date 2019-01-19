@@ -6,7 +6,7 @@ Only support OnePlus 6/6T Pie Open-Beta H2os/Oos based ROM.
 
 Based from XiaoJiaROM, compared with official open-beta rom.
 
-Tested in H2os_BETA_14.
+Tested in OnePlus 6 H2os_BETA_14.
 
 ## Features
 * Digital Healthy
