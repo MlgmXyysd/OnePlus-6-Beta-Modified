@@ -6,6 +6,8 @@ Only support OnePlus 6/6T Pie Open-Beta H2os/Oos based ROM.
 
 Based from XiaoJiaROM, compared with official open-beta rom.
 
+Tested in H2os_BETA_14.
+
 ## Features
 * Digital Healthy
 * Mod Settings
@@ -23,6 +25,9 @@ Based from XiaoJiaROM, compared with official open-beta rom.
 * And more...
 
 If you get some bug, please tell us.
+
 If you get translate bug in OPSettings, please join our QQ group and download override install apk.
+
 QQ chat group: 855219808
+
 Telegream channel: [Code_of_MeowCat](http://t.me/Code_of_MeowCat)
