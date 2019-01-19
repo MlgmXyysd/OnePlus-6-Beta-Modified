@@ -19,4 +19,5 @@ Based from XiaoJiaROM, compared with official open-beta rom.
 * McLaren ringtones
 * OnePlus 6T features for OnePlus 6
 * Removed virus and ads app from XiaoJiaROM
+* Official system update support
 * And more...
