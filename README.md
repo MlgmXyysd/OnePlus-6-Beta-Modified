@@ -20,7 +20,7 @@ Tested in OnePlus 6 H2os_BETA_14.
 * Smart Boost
 * McLaren ringtones
 * OnePlus 6T features for OnePlus 6
-* Removed virus and ads app from XiaoJiaROM fully
+* Kill package install security check
 * Official system update support
 * And more...
 
