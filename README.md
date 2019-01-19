@@ -21,3 +21,8 @@ Based from XiaoJiaROM, compared with official open-beta rom.
 * Removed virus and ads app from XiaoJiaROM
 * Official system update support
 * And more...
+
+If you get some bug, please tell us.
+If you get translate bug in OPSettings, please join our QQ group and download override install apk.
+QQ chat group: 855219808
+Telegream channel: [Code_of_MeowCat](http://t.me/Code_of_MeowCat)
