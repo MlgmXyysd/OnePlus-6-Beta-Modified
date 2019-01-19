@@ -2,7 +2,7 @@
 
 Add multiple functions to system systemlessly.
 
-Only support OnePlus 6/6T Pie Open-Beta H2os/Oos based ROM.
+Only support OnePlus 6/6T Pie Open-Beta H2os/Oos based ROM, stock or alpha ROM may bootloop.
 
 Based from XiaoJiaROM, compared with official open-beta rom.
 
