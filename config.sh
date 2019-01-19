@@ -1,5 +1,5 @@
 AUTOMOUNT=true
-PROPFILE=true
+PROPFILE=false
 POSTFSDATA=false
 LATESTARTSERVICE=false
 print_modname() {
