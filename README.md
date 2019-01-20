@@ -22,6 +22,7 @@ Tested in OnePlus 6 H2os_BETA_14.
 * OnePlus 6T features for OnePlus 6
 * Kill package install security check
 * Official system update support
+* Remove ads and virus app from ROM fully
 * And more...
 
 If you get some bug, please tell us.
