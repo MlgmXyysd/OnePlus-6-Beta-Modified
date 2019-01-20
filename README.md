@@ -25,6 +25,8 @@ Tested in OnePlus 6 H2os_BETA_14.
 * Remove ads and virus app from ROM fully
 * And more...
 
+## Note
+
 If you get some bug, please tell us.
 
 If you get translate bug in OPSettings, please join our QQ group and download override install apk.
@@ -32,3 +34,17 @@ If you get translate bug in OPSettings, please join our QQ group and download ov
 QQ chat group: 855219808
 
 Telegream channel: [Code_of_MeowCat](http://t.me/Code_of_MeowCat)
+
+## Changes log
+
+* v15
+
+Kill package install security check.
+
+* v14
+
+Fixed some translate
+
+* v9
+
+First release
