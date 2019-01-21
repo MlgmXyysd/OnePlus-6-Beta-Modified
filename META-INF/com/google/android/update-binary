@@ -76,9 +76,6 @@ unzip -o "$ZIP" module.prop config.sh 'common/*' -d $INSTALLER >&2
 # Load configurations
 . $INSTALLER/config.sh
 
-# Check rom
-check_system
-
 # Check the installed magisk version
 MIN_VER=`grep_prop minMagisk $INSTALLER/module.prop`
 [ ! -z $MAGISK_VER_CODE -a $MAGISK_VER_CODE -ge $MIN_VER ] || require_new_magisk
