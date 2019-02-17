@@ -139,6 +139,8 @@ $LATESTARTSERVICE && cp -af $INSTALLER/common/service.sh $MODPATH/service.sh
 ui_print "- Setting permissions"
 set_permissions
 
+ui_print "- Enabling modified features"
+modified
 ##########################################################################################
 # Finalizing
 ##########################################################################################

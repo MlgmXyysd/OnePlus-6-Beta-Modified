@@ -1,7 +1,7 @@
-id=op6mod
-name=OnePlus 6 6T Modified Module
-version=v16
-versionCode=16
+id=op6bmod
+name=OnePlus 6 Beta Modified Module
+version=v19
+versionCode=19
 author=MlgmXyysd
-description=Add multiple functions to system systemlessly. This version only support OnePlus 6 6T Pie BETA based rom. QQ chat group 855219808.
+description=Add multiple functions to system systemlessly. This version only support OnePlus 6 Pie Beta based rom. QQ chat group 855219808.
 minMagisk=17000
