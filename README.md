@@ -4,7 +4,7 @@ Add multiple functions to system systemlessly.
 
 Only support OnePlus 6 Pie Open-Beta H2os/O2os based ROM, stock or alpha ROM may bootloop.
 
-Based from XiaoJiaROM, compared with official open-beta rom.
+Ported from XiaoJiaROM, compared with official open-beta rom.
 
 Tested in OnePlus 6 H2os_BETA_15.
 
@@ -26,7 +26,6 @@ Tested in OnePlus 6 H2os_BETA_15.
 * OnePlus 6T features for OnePlus 6
 * Kill package install security check
 * Official system update support
-* Remove ads and virus app from XiaoJiaROM fully
 * And more...
 
 ## Note
